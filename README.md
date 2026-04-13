@@ -35,23 +35,6 @@ This course provides an introduction to High Performance Computing (HPC) and bas
 - Choosing appropriate resources for jobs.
 - Basic troubleshooting of jobs and environments.
 
-## Setting up your `codespace`
-
-Log-in with user account, then navigate to the green `code` tab:
-
-<img src="/readme_figures/codespaces1.png" width="800">
-
-Once logged-in, you shall find the `local` tab. Move to the `codespaces` tab in the upper-right corner:
-
-<div style="text-align:center">
-  <img src="/readme_figures/codespaces2.png" width="800">
-</div>
-
-Once logged-in, inside the `codespaces` tab, you shall find the `create a codespace on main` option:
-
-<div style="text-align:center">
-  <img src="/readme_figures/codespaces3.png" width="800">
-</div>
 
 ## Remote access to LMS `JEX`
 
