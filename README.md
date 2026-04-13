@@ -19,16 +19,21 @@ This course provides an introduction to High Performance Computing (HPC) and bas
 
 - Basics of Bash / Shell and Linux OS.
 - Scheduler, partitions, connect remotely to an HPC cluster.
-- Launch a SLURM job and check execution.
+- Navigate JEX, launch a SLURM job and check execution.
 
-### Chapter 2. (...)
+### Chapter 2. Working on an HPC environemnt.
 
-- (...)
+- Check job status and queues (`squeue`, `sinfo`).
+- Inspect available software with `module avail`.
+- Load and manage modules (`module load`, `module list`).
+- Understand basic resource usage (CPU, memory, time).
 
-### Chapter 3. (...)
+### Chapter 3. Managing software and resources.
 
-- (...)
-
+- Introduction to conda environments (create, activate, install).
+- Switching between partitions (e.g. cpu, hmem, gpu).
+- Choosing appropriate resources for jobs.
+- Basic troubleshooting of jobs and environments.
 
 ## Setting up your `codespace`
 

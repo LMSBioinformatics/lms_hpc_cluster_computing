@@ -17,16 +17,7 @@ ICL email address `jurtasun@ic.ac.uk`
 
 - Basics of Bash / Shell and Linux OS.
 - Scheduler, partitions, connect remotely to an HPC cluster.
-- Launch a SLURM job and check execution.
-
-### Chapter 2. (...)
-
-- (...)
-
-### Chapter 3. (...)
-
-- (...)
-
+- Navigate JEX, launch a SLURM job and check execution.
 
 ## Setting up your `codespace`
 

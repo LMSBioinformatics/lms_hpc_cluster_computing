@@ -13,20 +13,12 @@ ICL email address `jurtasun@ic.ac.uk`
 
 ## Roadmap of the course
 
-### Chapter 1. Introduction to HPC.
+### Chapter 2. Working on an HPC environemnt.
 
-- Basics of Bash / Shell and Linux OS.
-- Scheduler, partitions, connect remotely to an HPC cluster.
-- Launch a SLURM job and check execution.
-
-### Chapter 2. (...)
-
-- (...)
-
-### Chapter 3. (...)
-
-- (...)
-
+- Check job status and queues (`squeue`, `sinfo`).
+- Inspect available software with `module avail`.
+- Load and manage modules (`module load`, `module list`).
+- Understand basic resource usage (CPU, memory, time).
 
 ## Setting up your `codespace`
 

@@ -13,20 +13,12 @@ ICL email address `jurtasun@ic.ac.uk`
 
 ## Roadmap of the course
 
-### Chapter 1. Introduction to HPC.
+### Chapter 3. Managing software and resources.
 
-- Basics of Bash / Shell and Linux OS.
-- Scheduler, partitions, connect remotely to an HPC cluster.
-- Launch a SLURM job and check execution.
-
-### Chapter 2. (...)
-
-- (...)
-
-### Chapter 3. (...)
-
-- (...)
-
+- Introduction to conda environments (create, activate, install).
+- Switching between partitions (e.g. cpu, hmem, gpu).
+- Choosing appropriate resources for jobs.
+- Basic troubleshooting of jobs and environments.
 
 ## Setting up your `codespace`
 
