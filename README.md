@@ -17,24 +17,33 @@ This course provides an introduction to High Performance Computing (HPC) and bas
 
 ### Chapter 1. Introduction to HPC.
 
-- Basics of Bash / Shell and Linux OS.
-- Scheduler, partitions, connect remotely to an HPC cluster.
+- Basics of Bash / Shell and Linux OS (`ssh`, `scp`).
+- What is an HPC: pros&cons compared to Cloud and local servers.
+- Scheduler (PBS, Slurm, UGE), partitions, connect remotely to an HPC cluster.
 - Navigate JEX, launch a SLURM job and check execution.
 
 ### Chapter 2. Working on an HPC environemnt.
 
-- Check job status and queues (`squeue`, `sinfo`).
-- Inspect available software with `module avail`.
-- Load and manage modules (`module load`, `module list`).
+- Check job status and queues (`squeue`, `sinfo`, `sacct`, `seff`).
 - Understand basic resource usage (CPU, memory, time).
-
+- Choosing appropriate resources for jobs.
+- Switching between partitions (e.g. cpu, hmem, gpu).
+- Basic troubleshooting of jobs and environments.
+ 
 ### Chapter 3. Managing software and resources.
 
-- Introduction to conda environments (create, activate, install).
-- Switching between partitions (e.g. cpu, hmem, gpu).
-- Choosing appropriate resources for jobs.
-- Basic troubleshooting of jobs and environments.
+- Inspect available software with `module avail`. Show how Asset works.
+- Load and manage modules (`module load`, `module list`).
+- Intro to Conda, Renv, etc to install new/custom tools.
+- Optional: containers (Docker, Singularity/Apptainer).
+- Open OnDemand.
 
+### Chapter 4. Advanced use of HPC
+- Parallelisation.
+- Writing locally on the node.
+- Exporting environment variables.
+- Interactive sessions: RStudio, Jupyter.
+- MPI ??
 
 ## Remote access to LMS `JEX`
 
